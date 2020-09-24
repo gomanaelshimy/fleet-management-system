@@ -11,9 +11,10 @@ Fleet management system
 ```sh
 npm install
 ```
-4. Enter your database in `config` 
+4. Enter your database in `config/keys_dev.js` 
 ```JS
-const API_KEY = 'ENTER YOUR API';
+mongoURI : 'ENTER YOUR URI';
+secretOrKey: "" /* IF AVAILABLE */
 ```
 ** Note: a connection to the database is already available including data for testing** 
 
