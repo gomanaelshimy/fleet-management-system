@@ -23,5 +23,5 @@ secretOrKey: "" /* IF AVAILABLE */
 <!-- USAGE EXAMPLES -->
 ## Apis available for testing
 
-**Curl requests**
+**https://www.getpostman.com/collections/d8f780ded86faf46f770***
 
